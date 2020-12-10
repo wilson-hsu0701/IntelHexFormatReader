@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <Title>IntelHexFormatReader</Title>
-    <TargetFrameworks>netstandard1.6;net45;net46</TargetFrameworks>
+    <TargetFrameworks>netstandard1.6;net40;net45;net46</TargetFrameworks>
     <Authors>Christophe Diericx</Authors>
     <Company />
     <Description>A .NET library to parse an Intel HEX file and emit a representative memory representation.</Description>
